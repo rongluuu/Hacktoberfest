@@ -24,7 +24,7 @@ music_final = int(music1)+ int(music2)
 print()
 
 if tech_final > outdoor_final and tech_final > music_final:
-  print("You might be suitable for Infocomm club!")
+  print("You might be suitable for Infocomm club and other clubs and societies BLAH BLAH BLAH!")
 elif outdoor_final > music_final:
   print("You might be stuiable for ODAC!")
 else:
