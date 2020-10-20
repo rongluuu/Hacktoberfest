@@ -4,7 +4,7 @@ print("Welcome to DHS! Please answer the following questions truthfully and we'l
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
-tech1 = input("I enjoy building and fixing things.")
+tech1 = input("I enjoy building and wrecking things.")
 
 outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
 
